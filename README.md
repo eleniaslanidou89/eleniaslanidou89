@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eleniaslanidou
+- 👋 Hi, I’m Eleni Aslanidou
 - 👀 I’m Front-end Developer
 - 🌱 I’ve currently learnt Front-end Development
 - 💞️ I’m looking for new opportunities to develop my skills
