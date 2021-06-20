@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eleni Aslanidou
 - 👀 I’m Front-end Developer
-- 🌱 I’ve currently learnt Front-end Development
+- 🌱 I love learning new methods/frameworks
 - 💞️ I’m looking for new opportunities to develop my skills
-- 📫 How to reach me helena.aslanidou@gmail.com / http://portfolio-eleni-aslanidou.surge.sh/ 
+- 📫 How to reach me: helena.aslanidou@gmail.com / http://portfolio-eleni-aslanidou.surge.sh/ 
