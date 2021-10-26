@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Eleni Aslanidou
 - 👀 I’m Front-end Developer
-- 🌱 I love learning new methods/frameworks
-- 💞️ I’m looking for new opportunities to develop my skills
+- 📚 I love learning new methods/frameworks
+- 🌽 I love corn and 💃 dancing
+- 💭➕ Thinking Positive 
+- ✔ I’m looking for new opportunities to develop my skills
 - 📫 How to reach me: helena.aslanidou@gmail.com / https://eleniportfolio.surge.sh/
