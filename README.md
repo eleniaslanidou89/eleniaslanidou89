@@ -3,5 +3,6 @@
 - 📚 I love learning new methods/frameworks
 - 🌽 I love corn and 💃 dancing
 - 💭➕ Thinking Positive 
+- Interest in UX/UI
 - ✔ I’m looking for new opportunities to develop my skills
 - 📫 How to reach me: helena.aslanidou@gmail.com / https://eleniportfolio.surge.sh/
