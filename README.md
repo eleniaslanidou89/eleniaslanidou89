@@ -5,4 +5,4 @@
 - 💭➕ Thinking Positive 
 - 💎 Interest in UX/UI
 - ✔ I’m looking for new opportunities to develop my skills
-- 📫 How to reach me: helena.aslanidou@gmail.com / https://eleniportfolio.surge.sh/
+- 📫 How to reach me: helena.aslanidou@gmail.com / https://aslanidou-portfolio.surge.sh/
